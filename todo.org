@@ -1,0 +1,25 @@
+** Web Scrapper
+*** DONE Identified www.poetry.com as the resource to scrape.
+*** DONE Generate poem scrapper
+*** DONE Generate Dataset
+
+** Data Cleaning
+*** DONE Normalize capitalization
+*** DONE Remove excessive spacing
+*** DONE Assess average poem length
+*** DONE Remove delimiters 
+
+** Data Exploration
+*** TODO Look at word counts
+*** TODO Ensure all poems are in English
+*** TODO Deal with abbreviations - remove?
+*** DONE Generate TF.Dataset object
+
+** RNN Generator
+*** DONE Generate tokenized text
+*** DONE Split dataset into test train
+*** DONE Remove hardcoded for validation index for dataset
+*** DONE Generate model
+
+** Extra
+*** TODO Get tensorboard running

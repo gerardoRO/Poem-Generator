@@ -1,0 +1,6 @@
+logs/*
+datasets/*
+__pycache__/*
+new_poems/*
+ml_files/__pycache__/*
+models/*
